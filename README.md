@@ -1,2 +1,3 @@
 # projects
-project of tic tac toe
+Project of TIC-TAC-TOE.
+
